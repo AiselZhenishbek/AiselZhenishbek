@@ -10,7 +10,7 @@ About me: Self-confidence, the ability to achieve their goals, creative thinking
 * ✉️  You can contact me at [aseljenishbekkyzy@gmail.com](mailto:aseljenishbekkyzy@gmail.com)
 * 🧠  I'm learning I study Kyrgyz National University of Zhusup Balasagyn Faculty: Applied Informatics and Mathematics 2nd year
 * ⚡  I completed a course on Front-end development 
-* Course: Okurmen IT( 03.2022- 08.2022)
+* Course: Okurmen IT
 
 ### Skills
 
