@@ -4,13 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front End Developer
 --------------------------
 
-About me: Self-confidence, the ability to achieve their goals, creative thinking, the willingness to make decisions independently, the ability to work in a team, quick learning ability.
-
-* 🌍  I'm based in Kyrgyzstan, Bishkek city
-* ✉️  You can contact me at [aseljenishbekkyzy@gmail.com](mailto:aseljenishbekkyzy@gmail.com)
-* 🧠  I'm learning I study Kyrgyz National University of Zhusup Balasagyn Faculty: Applied Informatics and Mathematics 2nd year
-* ⚡  I completed a course on Front-end development 
-* Course: Okurmen IT
 
 ### Skills
 
